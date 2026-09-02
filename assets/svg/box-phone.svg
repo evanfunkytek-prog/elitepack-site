@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-hidden="true">
+<defs>
+<linearGradient id="ph-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f4ea"/><stop offset="1" stop-color="#ece2cf"/></linearGradient>
+<linearGradient id="ph-green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e4d39"/><stop offset="1" stop-color="#0e2c20"/></linearGradient>
+<linearGradient id="ph-greenL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a6b4f"/><stop offset="1" stop-color="#163f2e"/></linearGradient>
+<linearGradient id="ph-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d6a3"/><stop offset=".55" stop-color="#c9a35c"/><stop offset="1" stop-color="#a57c3c"/></linearGradient>
+<linearGradient id="ph-goldD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9a35c"/><stop offset="1" stop-color="#8f6a31"/></linearGradient>
+<linearGradient id="ph-cream" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf8"/><stop offset="1" stop-color="#efe6d3"/></linearGradient>
+<linearGradient id="ph-kraft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8cf9f"/><stop offset="1" stop-color="#d3b077"/></linearGradient>
+<linearGradient id="ph-kraftD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9b984"/><stop offset="1" stop-color="#bf9659"/></linearGradient>
+<linearGradient id="ph-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3f3b"/><stop offset="1" stop-color="#171b18"/></linearGradient>
+<linearGradient id="ph-rose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d96877"/><stop offset="1" stop-color="#8f2f3b"/></linearGradient>
+<linearGradient id="ph-brown" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7a5236"/><stop offset="1" stop-color="#53351f"/></linearGradient>
+<linearGradient id="ph-brownD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5e3c24"/><stop offset="1" stop-color="#3c2413"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#ph-bg)"/>
+<ellipse cx="200" cy="352" rx="150" ry="16" fill="#d5c7a9" opacity=".5"/><polygon points="140,240 260,240 280,258 160,258" fill="url(#ph-dark)"/><rect x="140" y="258" width="120" height="76" fill="url(#ph-green)"/><polygon points="260,258 280,258 280,334 260,320" fill="#0d271c"/><rect x="178" y="150" width="44" height="102" rx="8" fill="#191d1a"/><rect x="184" y="158" width="32" height="58" rx="3" fill="#9fd6c7"/><rect x="184" y="222" width="32" height="6" rx="3" fill="#3a3f3b"/><circle cx="200" cy="238" r="4" fill="#c9a35c"/><path d="M178 150 l44 0 l0 102" fill="none" stroke="url(#ph-gold)" stroke-width="2.5"/><rect x="152" y="268" width="96" height="10" rx="5" fill="#e9d6a3" opacity=".8"/><text x="200" y="252" text-anchor="middle" font-family="Arial,sans-serif" font-size="6" fill="#5d665e" letter-spacing="2">ELITEBOX</text>
+</svg>

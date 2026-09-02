@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-hidden="true">
+<defs>
+<linearGradient id="fd-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f4ea"/><stop offset="1" stop-color="#ece2cf"/></linearGradient>
+<linearGradient id="fd-green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e4d39"/><stop offset="1" stop-color="#0e2c20"/></linearGradient>
+<linearGradient id="fd-greenL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a6b4f"/><stop offset="1" stop-color="#163f2e"/></linearGradient>
+<linearGradient id="fd-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d6a3"/><stop offset=".55" stop-color="#c9a35c"/><stop offset="1" stop-color="#a57c3c"/></linearGradient>
+<linearGradient id="fd-goldD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9a35c"/><stop offset="1" stop-color="#8f6a31"/></linearGradient>
+<linearGradient id="fd-cream" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf8"/><stop offset="1" stop-color="#efe6d3"/></linearGradient>
+<linearGradient id="fd-kraft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8cf9f"/><stop offset="1" stop-color="#d3b077"/></linearGradient>
+<linearGradient id="fd-kraftD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9b984"/><stop offset="1" stop-color="#bf9659"/></linearGradient>
+<linearGradient id="fd-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3f3b"/><stop offset="1" stop-color="#171b18"/></linearGradient>
+<linearGradient id="fd-rose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d96877"/><stop offset="1" stop-color="#8f2f3b"/></linearGradient>
+<linearGradient id="fd-brown" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7a5236"/><stop offset="1" stop-color="#53351f"/></linearGradient>
+<linearGradient id="fd-brownD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5e3c24"/><stop offset="1" stop-color="#3c2413"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#fd-bg)"/>
+<ellipse cx="200" cy="352" rx="140" ry="16" fill="#d5c7a9" opacity=".5"/><path d="M182 180 C182 150 188 140 200 140 C212 140 218 150 218 180 Z" fill="none" stroke="#cfd8cf" stroke-width="3" stroke-linecap="round" opacity=".8"/><path d="M196 184 C196 158 200 150 210 150" fill="none" stroke="#cfd8cf" stroke-width="3" stroke-linecap="round" opacity=".6"/><rect x="140" y="180" width="120" height="52" rx="10" fill="url(#fd-kraftD)"/><polygon points="190,232 210,232 200,246" fill="url(#fd-kraftD)"/><rect x="140" y="232" width="120" height="62" fill="url(#fd-kraft)"/><path d="M140 232 L260 232 L260 268 A22 22 0 0 1 238 290 L162 290 A22 22 0 0 1 140 268 Z" fill="url(#fd-kraft)"/><polygon points="260,232 280,250 280,316 260,298" fill="#c9a35c" opacity=".55"/><circle cx="200" cy="206" r="17" fill="#fffdf8" opacity=".95"/><text x="200" y="211" text-anchor="middle" font-family="Georgia,serif" font-size="10" fill="#1e4d39" letter-spacing="1">E</text><rect x="152" y="250" width="96" height="10" rx="5" fill="#0e2c20" opacity=".12"/>
+</svg>

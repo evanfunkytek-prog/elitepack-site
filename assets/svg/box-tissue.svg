@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-hidden="true">
+<defs>
+<linearGradient id="ti-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f4ea"/><stop offset="1" stop-color="#ece2cf"/></linearGradient>
+<linearGradient id="ti-green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e4d39"/><stop offset="1" stop-color="#0e2c20"/></linearGradient>
+<linearGradient id="ti-greenL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a6b4f"/><stop offset="1" stop-color="#163f2e"/></linearGradient>
+<linearGradient id="ti-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d6a3"/><stop offset=".55" stop-color="#c9a35c"/><stop offset="1" stop-color="#a57c3c"/></linearGradient>
+<linearGradient id="ti-goldD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9a35c"/><stop offset="1" stop-color="#8f6a31"/></linearGradient>
+<linearGradient id="ti-cream" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf8"/><stop offset="1" stop-color="#efe6d3"/></linearGradient>
+<linearGradient id="ti-kraft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8cf9f"/><stop offset="1" stop-color="#d3b077"/></linearGradient>
+<linearGradient id="ti-kraftD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9b984"/><stop offset="1" stop-color="#bf9659"/></linearGradient>
+<linearGradient id="ti-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3f3b"/><stop offset="1" stop-color="#171b18"/></linearGradient>
+<linearGradient id="ti-rose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d96877"/><stop offset="1" stop-color="#8f2f3b"/></linearGradient>
+<linearGradient id="ti-brown" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7a5236"/><stop offset="1" stop-color="#53351f"/></linearGradient>
+<linearGradient id="ti-brownD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5e3c24"/><stop offset="1" stop-color="#3c2413"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#ti-bg)"/>
+<ellipse cx="200" cy="352" rx="140" ry="16" fill="#d5c7a9" opacity=".5"/><polygon points="150,230 250,230 270,250 170,250" fill="url(#ti-dark)"/><path d="M160 230 C158 168 168 140 182 168 C186 128 198 118 206 152 C214 116 228 130 232 168 C242 150 246 180 240 230 Z" fill="url(#ti-cream)" opacity=".98"/><path d="M168 230 C170 182 182 168 194 190 C200 160 210 162 216 188 C224 172 230 190 228 230 Z" fill="#f6ecd9" opacity=".95"/><path d="M150 230 L250 230 L270 250 L170 250 Z" fill="none" stroke="#c9a35c" stroke-width="2.5"/><rect x="140" y="250" width="110" height="78" fill="url(#ti-green)"/><polygon points="250,250 270,250 270,328 250,312" fill="#0d271c"/><rect x="160" y="262" width="70" height="10" rx="5" fill="#e9d6a3" opacity=".8"/>
+</svg>

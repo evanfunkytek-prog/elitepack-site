@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 400" role="img" aria-hidden="true">
+<defs>
+<linearGradient id="le-bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#f8f4ea"/><stop offset="1" stop-color="#ece2cf"/></linearGradient>
+<linearGradient id="le-green" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#1e4d39"/><stop offset="1" stop-color="#0e2c20"/></linearGradient>
+<linearGradient id="le-greenL" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#2a6b4f"/><stop offset="1" stop-color="#163f2e"/></linearGradient>
+<linearGradient id="le-gold" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e9d6a3"/><stop offset=".55" stop-color="#c9a35c"/><stop offset="1" stop-color="#a57c3c"/></linearGradient>
+<linearGradient id="le-goldD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#c9a35c"/><stop offset="1" stop-color="#8f6a31"/></linearGradient>
+<linearGradient id="le-cream" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#fffdf8"/><stop offset="1" stop-color="#efe6d3"/></linearGradient>
+<linearGradient id="le-kraft" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#e8cf9f"/><stop offset="1" stop-color="#d3b077"/></linearGradient>
+<linearGradient id="le-kraftD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#d9b984"/><stop offset="1" stop-color="#bf9659"/></linearGradient>
+<linearGradient id="le-dark" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#3a3f3b"/><stop offset="1" stop-color="#171b18"/></linearGradient>
+<linearGradient id="le-rose" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d96877"/><stop offset="1" stop-color="#8f2f3b"/></linearGradient>
+<linearGradient id="le-brown" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7a5236"/><stop offset="1" stop-color="#53351f"/></linearGradient>
+<linearGradient id="le-brownD" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#5e3c24"/><stop offset="1" stop-color="#3c2413"/></linearGradient>
+</defs>
+<rect width="400" height="400" fill="url(#le-bg)"/>
+<ellipse cx="200" cy="352" rx="150" ry="17" fill="#d5c7a9" opacity=".5"/><polygon points="140,190 272,190 292,210 160,210" fill="url(#le-brown)"/><rect x="140" y="210" width="132" height="120" fill="url(#le-brownD)"/><polygon points="272,210 292,210 292,330 272,330" fill="#3c2413"/><ellipse cx="200" cy="272" rx="30" ry="40" fill="url(#le-gold)"/><text x="200" y="279" text-anchor="middle" font-family="Georgia,serif" font-size="18" fill="#53351f" font-weight="700">E</text><line x1="140" y1="210" x2="272" y2="210" stroke="#e8cf9f" stroke-width="1.5" stroke-dasharray="5 4" opacity=".8"/><line x1="140" y1="210" x2="140" y2="330" stroke="#e8cf9f" stroke-width="1.5" stroke-dasharray="5 4" opacity=".8"/><line x1="272" y1="210" x2="272" y2="330" stroke="#e8cf9f" stroke-width="1.5" stroke-dasharray="5 4" opacity=".8"/><line x1="140" y1="330" x2="272" y2="330" stroke="#e8cf9f" stroke-width="1.5" stroke-dasharray="5 4" opacity=".8"/>
+</svg>
