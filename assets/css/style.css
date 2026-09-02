@@ -215,6 +215,7 @@ p.lead{font-size:1.1rem;color:var(--muted);max-width:640px;margin:0 auto}
 .map-pin{position:relative;z-index:2;background:var(--green-900);color:var(--gold-300);border-radius:999px;padding:12px 20px;font-weight:700;box-shadow:var(--shadow-md);animation:pinPulse 2.4s infinite}
 @keyframes pinPulse{0%,100%{transform:scale(1)}50%{transform:scale(1.06)}}
 .contact-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:22px;margin-bottom:56px}
+.quote-split{display:grid;grid-template-columns:1.6fr 1fr;gap:36px;align-items:start}
 .contact-card{background:var(--white);border:1px solid var(--line);border-radius:var(--radius);padding:26px;text-align:center}
 .contact-card svg{width:40px;height:40px;margin:0 auto 12px}
 .contact-card b{display:block;margin-bottom:6px;color:var(--green-900)}
@@ -225,6 +226,7 @@ p.lead{font-size:1.1rem;color:var(--muted);max-width:640px;margin:0 auto}
 .reveal{opacity:0;transform:translateY(22px);transition:opacity .7s ease,transform .7s ease}
 .reveal.revealed{opacity:1;transform:none}
 @media (max-width:1024px){
+  .quote-split{grid-template-columns:1fr}
   .product-grid,.post-grid{grid-template-columns:repeat(2,1fr)}
   .spec-grid,.ind-grid,.cert-grid,.contact-grid,.milestone{grid-template-columns:repeat(2,1fr)}
   .steps{grid-template-columns:repeat(2,1fr)}

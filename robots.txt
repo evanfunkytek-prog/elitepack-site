@@ -1,0 +1,7 @@
+# robots.txt for eliteboxpacking.com
+# EliteBox Packaging - luxury & eco-friendly custom packaging manufacturer
+
+User-agent: *
+Allow: /
+
+Sitemap: https://www.eliteboxpacking.com/sitemap.xml
