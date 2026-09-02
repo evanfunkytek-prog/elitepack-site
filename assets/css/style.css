@@ -255,3 +255,6 @@ p.lead{font-size:1.1rem;color:var(--muted);max-width:640px;margin:0 auto}
 }
 .card[data-acc-item] [data-acc-panel]{display:none}
 .card[data-acc-item].open [data-acc-panel]{display:block!important;animation:fadeUp .3s ease}
+
+/* footer contact links stacked */
+.footer-col a{display:block;padding:3px 0}
